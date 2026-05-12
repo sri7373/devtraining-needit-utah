@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="Create To Do Item">e698f0a547bc83108a2687fe016d4313</sc_cat_item>
+        <sc_category display_value="Laptops">59f586f23731300054b6a3549dbe5db7</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-05-11 16:06:21</sys_created_on>
+        <sys_id>539a78a947bc83108a2687fe016d434b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Laptops.Create To Do Item</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sc_cat_item_category_539a78a947bc83108a2687fe016d434b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-05-11 16:06:21</sys_updated_on>
+    </sc_cat_item_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>a1222ca793e04fd0d9f6ddd548373cbe</instance_id>
+        <instance_name>dev398217</instance_name>
+        <name>sc_cat_item_category_539a78a947bc83108a2687fe016d434b</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="INSERT_OR_UPDATE"><sc_cat_item display_value="Create To Do Item">e698f0a547bc83108a2687fe016d4313</sc_cat_item><sc_category display_value="Laptops">59f586f23731300054b6a3549dbe5db7</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-05-11 16:06:21</sys_created_on><sys_id>539a78a947bc83108a2687fe016d434b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Laptops.Create To Do Item</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sc_cat_item_category_539a78a947bc83108a2687fe016d434b</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-05-11 16:06:21</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+        <payload_hash>983917996</payload_hash>
+        <record_name>Laptops.Create To Do Item</record_name>
+        <reverted_from/>
+        <source>dfe8624847b047108a2687fe016d4314</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-05-11 16:06:22</sys_created_on>
+        <sys_id>9f9a78a947bc83108a2687fe016d4360</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19e17ca1c370000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-05-11 16:06:22</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>5b9a78a90cbc8310fd20d6ae0dda505f</update_guid>
+        <update_guid_history>5b9a78a90cbc8310fd20d6ae0dda505f:983917996</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Laptops.Create To Do Item">120bf4e947bc83108a2687fe016d43f8</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-05-11 16:08:12</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>316f0d1ad56d47319bf1c8c80d8df2d9</sys_id>
+        <sys_metadata>539a78a947bc83108a2687fe016d434b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Laptops.Create To Do Item</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_539a78a947bc83108a2687fe016d434b</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_539a78a947bc83108a2687fe016d434b">9f9a78a947bc83108a2687fe016d4360</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-05-11 16:08:12</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
