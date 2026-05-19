@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="INSERT_OR_UPDATE">
+        <inactive>false</inactive>
+        <order>100</order>
+        <published_ref/>
+        <question display_value="Delivery Location">4494521a47304b108a2687fe016d433d</question>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-05-14 06:35:30</sys_created_on>
+        <sys_id>92b49e5e47744b108a2687fe016d4336</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Main Office</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>question_choice_92b49e5e47744b108a2687fe016d4336</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-05-14 06:35:30</sys_updated_on>
+        <text>Main Office</text>
+        <value>main_office</value>
+    </question_choice>
+    <fx_price action="delete_multiple" query="id=92b49e5e47744b108a2687fe016d4336"/>
+</record_update>
